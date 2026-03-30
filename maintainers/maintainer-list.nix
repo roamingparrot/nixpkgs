@@ -23111,6 +23111,12 @@
     githubId = 422802;
     name = "Rostislav Beneš";
   };
+  roamingparrot = {
+    email = "roamingparrot@protonmail.com";
+    github = "roamingparrot";
+    githubId = 190113561;
+    name = "roamingparrot";
+  };
   rob = {
     email = "rob.vermaas@gmail.com";
     github = "rbvermaa";
